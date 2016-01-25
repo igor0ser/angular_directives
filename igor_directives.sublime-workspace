@@ -1,0 +1,1299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"c	console_log"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"re",
+				"restrict"
+			],
+			[
+				"te",
+				"templateUrl"
+			],
+			[
+				"l",
+				"listElem"
+			],
+			[
+				"a",
+				"angular"
+			],
+			[
+				"ge",
+				"getExpiryDate"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"r",
+				"rank.js"
+			],
+			[
+				"g",
+				"getCurrentUser"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"s",
+				"services.js"
+			],
+			[
+				"use",
+				"userService"
+			],
+			[
+				"us",
+				"userService"
+			],
+			[
+				"strea",
+				"streamData"
+			],
+			[
+				"d",
+				"d-b	display: block;"
+			],
+			[
+				"border-t",
+				"border-top-style"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"we",
+				"weather"
+			],
+			[
+				"wea",
+				"weatherResult"
+			],
+			[
+				"weat",
+				"weatherAPI"
+			],
+			[
+				"bcol",
+				"border-color"
+			],
+			[
+				"sort",
+				"sortReverse"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"i",
+				"incompleteCount"
+			],
+			[
+				"ima",
+				"imageUrl"
+			],
+			[
+				"ph",
+				"phonecatApp"
+			],
+			[
+				"sor",
+				"sortField"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"b-r",
+				"border-radius"
+			],
+			[
+				"c-p",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"d-",
+				"d-b	display: block;"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"wo",
+				"word2"
+			],
+			[
+				"e",
+				"employee"
+			],
+			[
+				"em",
+				"Employee"
+			],
+			[
+				"tabl",
+				"tableDate"
+			],
+			[
+				"tab",
+				"tableDate"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"fu",
+				"fu	function_anonymous"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"v",
+				"validate"
+			],
+			[
+				"la",
+				"language"
+			],
+			[
+				"log",
+				"logMessages"
+			],
+			[
+				"fo",
+				"fornalGreeting"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"reca",
+				"recalculateTR"
+			],
+			[
+				"is",
+				"isChangeable"
+			],
+			[
+				"table",
+				"tableBody"
+			],
+			[
+				"tbo",
+				"tableBody"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"td",
+				"td-u	text-decoration: underline;"
+			],
+			[
+				"get",
+				"getDay"
+			],
+			[
+				"proto",
+				"__proto__"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Igor_Sergiienko/Desktop/Download/Testing1/Testing1/index.html",
+			"settings":
+			{
+				"buffer_size": 4525,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git st",
+		"selected_items":
+		[
+			[
+				"git st",
+				"Git: Commit history"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sta",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML Extended"
+			],
+			[
+				"g",
+				"Git: Commit history"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ",
+				"Set Syntax: Tcl"
+			],
+			[
+				"eval",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Snippet: fu",
+				"Snippet: function_anonymous"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"csss",
+				"Convert Case: Swap Case"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Workspace/06_Directive_Home_Task_Sergiienko/app",
+		"/D/Workspace/06_Directive_Home_Task_Sergiienko/app/directives"
+	],
+	"file_history":
+	[
+		"/D/Workspace/06_Directives_Task/bower.json",
+		"/D/Workspace/06_Directives_Task/app/directives/directives.js",
+		"/D/Workspace/06_Directive_Home_Task_Sergiienko/app/directives/directives.js",
+		"/D/Workspace/06_Directive_Home_Task_Sergiienko/app/directives/directives_from_angular5.js",
+		"/D/Workspace/MY_CTCO/start.txt",
+		"/D/Workspace/MY_CTCO/ctco-aecm.sublime-project",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/modules/account/_acc-account-settings.scss",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/payment-step/co-ctfs-paypal.js",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/payment-step/co-ctfs-wrapper.js",
+		"/D/Workspace/MY_CTCO/_hmc.txt",
+		"/D/Workspace/06_Directive_Home_Task_Sergiienko/project.sublime-project",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/co-errors-handling.js",
+		"/C/Users/Igor_Sergiienko/Desktop/mine/pr/Перерахування власного доходу.txt",
+		"/C/Users/Igor_Sergiienko/Desktop/Download/HomeTask.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/apps/atmosphere/i18n-external/en.xml",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/shopping-cart/sc-product-list/sc-product-list.dust",
+		"/D/Programs/Sublime/Data/Packages/User/Preferences.sublime-settings",
+		"/d/Workspace/angular_to_do/app/modules/todo-form/view.html",
+		"/D/Workspace/CTCO/ctco changes/my-project.sublime-project",
+		"/D/Workspace/CTCO/ctco changes/_form.scss",
+		"/C/Users/Igor_Sergiienko/Desktop/ctco changes/1.txt",
+		"/C/Users/Igor_Sergiienko/Desktop/ctco changes/new_changes.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/modules/global/_glb-join-our-community.scss",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/modules/product-detail/_prd-add-to.scss",
+		"/C/Users/Igor_Sergiienko/Desktop/ctco changes/_form.scss",
+		"/D/Programs/Sublime/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Programs/Sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Workspace/Testing-fonts/css/another.css",
+		"/C/Users/Igor_Sergiienko/Desktop/aaa.css",
+		"/D/Programs/Sublime/Data/Packages/User/SublimeServer.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/User/AdvancedNewFile.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/User/View In Browser.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/common/_form.scss",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/ddd/index.html",
+		"/D/Programs/Sublime/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/D/Workspace/Testing-fonts/app.js",
+		"/D/Programs/Sublime/Data/Packages/User/Git.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/Git/Git.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/User/Terminal.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/common/_product-grid.scss",
+		"/D/Workspace/CTCO/start.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-add-to-cart/glb-add-to-cart.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-product-grid-item/glb-product-grid__quickview-product.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-product-grid-item/glb-product-grid__product.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/global/glb-drawer.js",
+		"/D/Workspace/Testing-fonts/index.html",
+		"/D/Programs/Sublime/Data/Packages/User/bh_core.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/BracketHighlighter/bh_tag.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/User/bh_tag.sublime-settings",
+		"/D/Workspace/Testing-fonts/main.css",
+		"/D/Programs/Sublime/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Igor_Sergiienko/Desktop/1.css",
+		"/D/Workspace/Testing-Женя/stylesheets/main.css",
+		"/D/Programs/Sublime/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/Workspace/06_Directives_Task/app/index.html",
+		"/C/Users/Igor_Sergiienko/Desktop/Sublime lection/index.html",
+		"/D/Programs/Sublime/Data/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Igor_Sergiienko/Desktop/Sublime lection/some.js",
+		"/D/Workspace/06_Directives_Task/app/app.js",
+		"/D/Programs/Sublime/Data/Packages/User/app.sublime-snippet",
+		"/C/Users/Igor_Sergiienko/Desktop/Download/9367852-d4c1495e5ad943ccf00654ac29b4ca2dde6e421e/OpenWithSublimeText3.bat",
+		"/C/Users/Igor_Sergiienko/Desktop/Download/9367852-d4c1495e5ad943ccf00654ac29b4ca2dde6e421e/OpenWithSublimeText3 - Copy.bat",
+		"/C/Users/Igor_Sergiienko/Desktop/sub.bat",
+		"/C/Users/Igor_Sergiienko/Desktop/del.bat",
+		"/C/Users/Igor_Sergiienko/Desktop/Angular_HomeTask_Sergiienko.7z",
+		"/D/Programs/Sublime/sublime_text.exe",
+		"/C/Users/Igor_Sergiienko/Desktop/sub.batch",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/modules/global/_glb-mega-menu.scss",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/main.scss",
+		"/D/Workspace/06_Directives_Task/app/templates/scopeEvalDataTemplate.html",
+		"/D/Workspace/06_Directives_Task/app/templates/panelTemplate.html",
+		"/D/Workspace/06_Directives_Task/app/templates/greetingTranscludeTemplate.html",
+		"/D/Workspace/06_Directives_Task/app/templates/scopeEvalTemplate.html",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-email/acc-email.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-shipping-address/acc-shipping-address__item.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-phone/acc-phone.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-password/acc-password.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-gender/acc-gender.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-children/acc-children.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/account/acc-birthday/acc-birthday.dust",
+		"/D/Workspace/angular-phonecat/app/js/controllers.js",
+		"/D/Workspace/angular-phonecat/app/js/filters.js",
+		"/D/Workspace/angular-phonecat/app/js/directives.js",
+		"/D/Programs/Sublime/Data/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/apps/sportchek/components/global/glb-helpful-links/glb-helpful-links.jsp",
+		"/D/Workspace/06_Directives_Task/app/templates/restrict.html",
+		"/D/Workspace/angular-phonecat/app/index.html",
+		"/D/Programs/Sublime/Data/Packages/Web Inspector/Default (Windows).sublime-keymap",
+		"/D/Programs/Sublime/Data/Packages/User/swi.sublime-settings",
+		"/D/Programs/Sublime/Data/Packages/Web Inspector/swi.sublime-settings",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/apps/atmosphere/i18n/en.xml",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-header-account-button/glb-header-account-button-no-fb.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-header-account-button/glb-header-account-button.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/global/glb-header-account-button-no-fb/glb-header-account-button-no-fb.dust",
+		"/C/Users/Igor_Sergiienko/Desktop/atmo/1.html",
+		"/C/Users/Igor_Sergiienko/Desktop/atmo/Atmosphere Homepage.html",
+		"/C/Users/Igor_Sergiienko/Desktop/test.html",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/checkout/billing/co-billing-address__saved.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/order-details/od-order-details-thanks-banner.dust",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/page/order-details/js.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/order-details/dust-templates.js",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/order-details/od-order-details-products-list.dust",
+		"/D/Workspace/ctco-aecm/cq/.gitignore",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/js.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/.gitignore",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/dust-templates.js",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/target/vault-work/jcr_root/etc/clientlibs/sportchek/global/js/dust-templates/checkout/billing/co-billing-address__saved.dust",
+		"/C/Users/Igor_Sergiienko/Desktop/one.js",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/checkout/shipping-step/co-ship-to-new-address.js",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/scss/atmosphere/modules/order-confirmation/_order-confirmation.scss",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/etc/clientlibs/sportchek/global/js/app/modules/global/glb-mega-menu.js",
+		"/D/Workspace/CTCO/!_/start.txt",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/apps/atmosphere/templates/sitemap-page-template/.content.xml",
+		"/D/Workspace/ctco-aecm/cq/sportchek-view/src/main/content/jcr_root/apps/atmosphere/templates/account-page-template/.content.xml",
+		"/C/Users/Igor_Sergiienko/.ssh/id_rsa",
+		"/D/Workspace/angular_to_do/app/modules/todo-header/view.html",
+		"/D/Workspace/angular_to_do/app/modules/todo-table/filter.js",
+		"/D/Workspace/angular_to_do/app/modules/todo-table/view.html",
+		"/D/Workspace/angular_to_do/app/modules/todo-table/controller.js",
+		"/D/Workspace/angular_to_do/app/css/main.css",
+		"/D/Workspace/angular_to_do/app/modules/todo-header/controller.js",
+		"/D/Workspace/angular_to_do/app/modules/todo-form/view.html",
+		"/D/Workspace/angular_to_do/app/modules/todo-form/controller.js",
+		"/D/Workspace/angular_to_do/app/modules/edit-profile/view.html",
+		"/D/Workspace/angular_to_do/app/app.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\sportchek\\components",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\sportchek\\components",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\sportchek\\components",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere\\i18n",
+			"D:\\Workspace\\MY_CTCO",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere\\i18n",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere\\i18n",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere\\i18n",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere\\modules\\global",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere\\modules\\account",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\target\\vault-work\\jcr_root\\etc\\clientlibs\\sportchek\\global\\scss\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\sportchek\\components",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\dust-templates",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\apps\\atmosphere",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules\\checkout",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules\\checkout\\shipping-step",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules",
+			"D:\\Workspace\\ctco-aecm\\cq\\sportchek-view\\src\\main\\content\\jcr_root\\etc\\clientlibs\\sportchek\\global\\js\\app\\modules\\global",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scope",
+			"x",
+			"link",
+			"li",
+			"arr",
+			"item2",
+			"account-settings__save",
+			"account-settings__cancel",
+			"account_settings",
+			"\\",
+			"account-settings",
+			"account-settings__cancel",
+			"product.quantityRestriction",
+			"quantityRestriction",
+			"\\",
+			"The quantity you selected exceeds the number of items that we have available.",
+			"\\",
+			"quantityRestriction",
+			"The quantity you selected exceeds the number of items that we have available.",
+			"modal__title",
+			"error",
+			"error-modal",
+			"erroe-modal",
+			"\\",
+			"error",
+			"error-modal",
+			"CHT0082",
+			"SC0039",
+			"return to cart",
+			"error",
+			"quantity",
+			"quantityRestriction",
+			"error.checkout.validation.product.quantityRestriction",
+			"The quantity you selected",
+			"The quantity",
+			"quantity",
+			"the quantity",
+			"exceeds the number",
+			"the quantity you selected",
+			"the quantity",
+			"WSL0001",
+			"is no longer available",
+			"SC0034",
+			"SC0041",
+			"Sorry",
+			"Sorry, one",
+			"theme",
+			"reviews__more",
+			"review-more",
+			"review",
+			"add-cart",
+			"add-card",
+			"footer-section__submit",
+			"foc",
+			"open",
+			"browser",
+			"app",
+			"\\\\",
+			"select",
+			"dropdown__value",
+			"dropdown_value",
+			"formDropdown",
+			"product-detail__button",
+			"outline: none",
+			"button",
+			"product-detail",
+			"add-cart",
+			"{?",
+			"SafetyAndWarranty",
+			"addToWishlistButton",
+			"data-module-type=\"AddToCart\"",
+			"product-detail__options",
+			"product-detail__button",
+			"Add to Card",
+			"add to card",
+			"item-picture",
+			"cat-grid",
+			"cat-grid__item-picture",
+			"SC0035",
+			"PRD0010",
+			"OUT_OF_STOCK",
+			"product-detail",
+			"product-detail__options",
+			"product-detail_options",
+			"product-detail",
+			"product_detail",
+			"product",
+			"productPrice",
+			"product_detail",
+			"findinstore",
+			"skuselector",
+			"/",
+			"SkuSelector",
+			"tag",
+			"style",
+			"//angle",
+			"// Angle",
+			"\"html\": [\"HTML\", \"HTML 5\", \"PHP\"],",
+			"tag",
+			"tag_mode",
+			"html",
+			"box-sh",
+			"+j",
+			"directive",
+			"+j",
+			"directive",
+			"select",
+			"unorderedList9",
+			"directive",
+			"add",
+			"edit-btn",
+			":focus",
+			"focus",
+			"/",
+			"hi2",
+			"hi",
+			"hello",
+			"greeting4",
+			"hello",
+			"greeting3",
+			"scopeDemoIsolated3",
+			"greeting1",
+			"scopeDemoIsolated3",
+			"scopeDemoIsolated2",
+			"scopeDemoIsolated1",
+			"decor1",
+			"scopeDemoIsolated",
+			"focus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"	",
+			"/t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML Extended/HTML-extended.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Igor_Sergiienko/Desktop/Download/Testing1/Testing1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML Extended/HTML-extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "igor_directives.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"templates\\panelTemplate.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"trans",
+				"templates\\greetingTranscludeTemplate.html"
+			],
+			[
+				"evald",
+				"templates\\scopeEvalDataTemplate.html"
+			],
+			[
+				"sco",
+				"templates\\scopeEvalTemplate.html"
+			],
+			[
+				"",
+				"app.js"
+			],
+			[
+				"res",
+				"templates\\restrict.html"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"m",
+				"main.css"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"mai",
+				"main.css"
+			],
+			[
+				"f",
+				"pages\\forecast.html"
+			],
+			[
+				"fo",
+				"pages\\forecast.html"
+			],
+			[
+				"app.",
+				"js\\app.js"
+			],
+			[
+				"table",
+				"template\\task-table.html"
+			],
+			[
+				"form",
+				"template\\task-form.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"to",
+				"tomorrow-controller.js"
+			],
+			[
+				"da",
+				"day-controller.js"
+			],
+			[
+				"dir",
+				"highlight-directive.js"
+			],
+			[
+				"d",
+				"dayNames-filter.js"
+			],
+			[
+				"ma",
+				"css\\main.css"
+			],
+			[
+				"co",
+				"js\\controllers.js"
+			],
+			[
+				"cont",
+				"js\\controllers.js"
+			],
+			[
+				"h",
+				"template\\home.html"
+			],
+			[
+				"home",
+				"template\\home.html"
+			],
+			[
+				"abo",
+				"template\\about.html"
+			],
+			[
+				"cotac",
+				"template\\contact.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"app.css",
+				"css\\app.css"
+			],
+			[
+				"a",
+				"js\\app.js"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"pl",
+				"plugin.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Workspace\\MY_CTCO\\ctco-aecm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 464.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

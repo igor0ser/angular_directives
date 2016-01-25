@@ -1,11 +1,11 @@
 {
-  "name": "todoApp",
+  "name": "Directive",
   "version": "0.0.1",
-  "description": "Example",
+  "description": "Transclude",
   "authors": [
-    "Vitaliy Zhyrytskyy"
+    "Igor"
   ],
-  "license": "MIT",
+  "license": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,8 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.0",
-    "bootstrap": "~3.3.5"
-    
+    "angular": "~1.4.0"
+
   }
 }
